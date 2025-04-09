@@ -1,4 +1,3 @@
-# ikonate-icon
 # Ikonate
 
 [![npm version](https://badge.fury.io/js/ikonate.svg)](https://badge.fury.io/js/ikonate)
